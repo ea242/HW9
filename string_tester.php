@@ -7,6 +7,7 @@
 
 <body>
     <main>
+	<h1>Midterm Example</h1>
         <h1>String Tester</h1>
         <form action="." method="post">
         <input type="hidden" name="action" value="process_data">
